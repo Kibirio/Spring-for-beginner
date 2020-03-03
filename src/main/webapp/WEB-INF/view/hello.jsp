@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>palmoncodes</title>
 </head>
 <body>
-
+<h1 align="center">WELCOME TO PALMONCODES CAFE</h1>
 </body>
 </html>
